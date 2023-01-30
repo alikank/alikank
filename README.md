@@ -6,10 +6,6 @@
 ### <div align="center">I'm Alikan, computer engineering student 👨‍💻 working freelancer since 2021🚀</div>  
   
 
-- 🌐 I am actively involved in Cyber ​​Security and Software Development.  
-  
-
-- ⚡ I continue to improve myself in line with my goals and dreams.  
   
 
 <br/>  
