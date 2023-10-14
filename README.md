@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Alikan, computer engineering student 👨‍💻 working freelancer since 2021🚀</div>  
+### I'm Alikan, computer engineering student 👨‍💻 working freelancer since 2021🚀
   
 
   
