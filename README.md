@@ -2,6 +2,8 @@
   
 
 ## <div align="center">I'm Alikan, a computer engineer.</div>
+## <div align="center">DevOps Engineer & Backend Developer</div>
+
   
 
   
