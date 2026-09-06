@@ -1,9 +1,7 @@
-<div align="center">
-<img src="https://i.ibb.co/2KnWT3P/0-4ty0-Adbdg4ds-VBo3.png" align="center" style="width: 50%" />
-</div>  
+
   
 
-## <div align="center">I'm Alikan, a computer engineering student 👨‍💻 working as a freelancer since 2021🚀</div>
+## <div align="center">I'm Alikan, a computer engineer.</div>
   
 
   
